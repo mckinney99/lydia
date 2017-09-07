@@ -1,3 +1,2 @@
 # lydia
-The Website!
-bom bom bommm
+This is a website for Lydia!
