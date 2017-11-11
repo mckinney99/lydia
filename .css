@@ -3,22 +3,27 @@
 	margin: 0px;
 	padding: 0px;
 }
+
 h1 {
 	text-align: center;
 	color: red;
 	align-items: center;
 }
+
 #wrapper{
 	border-radius: 10px;	
  	width: 1000px;
  	background-color: silver;
  	margin: 50px auto;
 }
+
 #header{
 	align-items: center;
 }
+
 #nav{
 	list-style: none;
 	text-align: center;
 }
+
 .nav
